@@ -6,7 +6,7 @@ Special thanks to the Figma community to provide the free template.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/jashandeep1659/Fashion-landing-page/blob/main/sc.png?raw=true)
 
 
 ## Authors
